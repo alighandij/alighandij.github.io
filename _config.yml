@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 name: Ali Ghandi Blog
-logo: [Location of the logo]
+logo: ./mypic.png
 show_downloads: true
