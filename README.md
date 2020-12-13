@@ -30,3 +30,13 @@ I usually post and archive my last GitHub project and online publications. feel 
     * PolicyGradient
         * [Actor-Critic algorithm for cartPole](https://github.com/alighandij/ReinforcementLearning/blob/master/PolicyGradient/Actor-Critic_cartPole.ipynb)
         * [REINFORCE algorithm for cartpole](https://github.com/alighandij/ReinforcementLearning/blob/master/PolicyGradient/REINFORCE_cartpole.ipynb)
+        
+* **Deep Learning(tensorflow 2.2)**
+    * ANN
+        * [simple ANN (tutorial mode)](https://github.com/alighandij/DeepLearning_TF2/tree/main/ANN)
+    * CNN
+        * [simple CNN for CIFAR10](https://github.com/alighandij/DeepLearning_TF2/blob/main/CNN/CNN%20for%20CIFAR10%20.ipynb)
+        * [simple CNN on fashion MNIST](https://github.com/alighandij/DeepLearning_TF2/blob/main/CNN/CNN%20on%20fashion%20MNIST.ipynb)
+    * RNN
+        * [LSTM and long term memory effect (tutorial mode)](https://github.com/alighandij/DeepLearning_TF2/blob/main/RNN/Long%20term%20memory%20effect.ipynb)
+        * [RNN for image classification](https://github.com/alighandij/DeepLearning_TF2/blob/main/RNN/RNN%20for%20image%20classification.ipynb)
