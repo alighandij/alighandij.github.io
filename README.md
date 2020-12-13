@@ -17,4 +17,16 @@ I usually post and archive my last GitHub project and online publications. feel 
         * [tweet sentiment analysis using Logistic regression](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/%20sentiment%20analysis%20on%20tweet%20using%20logistic%20regression.ipynb)
         * [Locality Sensitive Hashing]()
         * [word translation from English to  French](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/word%20translation%20using%20vector%20space.ipynb)
+        
 * **Reinforcement learning**
+    * Q_learning
+        * [simple Q_learning for Taxi-v2](https://github.com/alighandij/ReinforcementLearning/blob/master/Q_learning/Q-lraning.ipynb)
+    * Deep Q_learning
+        * [simple deep Q_learning for Taxi-v2](https://github.com/alighandij/ReinforcementLearning/blob/master/DQN/01_DQN_Taxi-v2.ipynb)
+        * [simple deep Q_learning for LunarLander-v2 game](https://github.com/alighandij/ReinforcementLearning/blob/master/DQN/02_DQN_LunarLander-v2.ipynb)
+        * [simple deep Q_learning for Pong](https://github.com/alighandij/ReinforcementLearning/blob/master/DQN/03_Pong%20with%20DQN.ipynb)
+        * [Double deep Q_learning(DDQN) for Pong](https://github.com/alighandij/ReinforcementLearning/blob/master/DQN/05_Double_DQN_Pong.ipynb)
+        * [Dueling Double deep Q_learning(3DQN) for CartPole](https://github.com/alighandij/ReinforcementLearning/blob/master/DQN/06_CartPole%20Dueling%20DDQN.ipynb)
+    * PolicyGradient
+        * [Actor-Critic algorithm for cartPole](https://github.com/alighandij/ReinforcementLearning/blob/master/PolicyGradient/Actor-Critic_cartPole.ipynb)
+        * [REINFORCE algorithm for cartpole](https://github.com/alighandij/ReinforcementLearning/blob/master/PolicyGradient/REINFORCE_cartpole.ipynb)
