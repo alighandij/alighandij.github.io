@@ -1,0 +1,1 @@
+Currently, I am a Ph.D. student in Data Science at Sharif University and I work as a Senior Data Scientist at Balad map company. I am keen on the AI field so read many branches from traditional machine learning to big data and new newfound Reinforcement learning techniques.
