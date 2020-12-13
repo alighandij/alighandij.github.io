@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 name: Ali Ghandi Blog
 logo: ./mypic.png
-show_downloads: true
+show_downloads: false
+title: Data Science
+description: post my github project in detail and my post in medium.
