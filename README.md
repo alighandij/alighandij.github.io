@@ -18,7 +18,6 @@ I usually post and archive my last GitHub project and online publications. feel 
         * [Locality Sensitive Hashing](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/Locality%20sensitive%20hashing%20for%20finding%20similar%20tweets.ipynb)
         * [word translation from English to  French](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/word%20translation%20using%20vector%20space.ipynb)
      * Probabilistic models
-         [//]: # (* [Auto Correct](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Probabilistic%20Models/Auto%20correct.ipynb) (
          * [Auto Complete](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Probabilistic%20Models/Auto%20complete(probabilistic%20model).ipynb)
 * **Reinforcement learning**
     * Q_learning
