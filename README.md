@@ -19,6 +19,7 @@ I usually post and archive my last GitHub project and online publications. feel 
         * [word translation from English to  French](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/word%20translation%20using%20vector%20space.ipynb)
      * Probabilistic models
          * [Auto Complete](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Probabilistic%20Models/Auto%20complete(probabilistic%20model).ipynb)
+         * [continuous bag of words (CBOW) from scratch(Word Embedding)](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Probabilistic%20Models/continuous%20bag%20of%20words%20(CBOW)%20from%20scratch(Word%20Embedding).ipynb)
 * **Reinforcement learning**
     * Q_learning
         * [simple Q_learning for Taxi-v2](https://github.com/alighandij/ReinforcementLearning/blob/master/Q_learning/Q-lraning.ipynb)
