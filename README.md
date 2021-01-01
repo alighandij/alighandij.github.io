@@ -18,6 +18,7 @@ I usually post and archive my last GitHub project and online publications. feel 
         * [Locality Sensitive Hashing](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/Locality%20sensitive%20hashing%20for%20finding%20similar%20tweets.ipynb)
         * [word translation from English to  French](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/word%20translation%20using%20vector%20space.ipynb)
      * Probabilistic models
+         * [Auto correct](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Probabilistic%20Models/Auto%20correct.ipynb)
          * [Auto Complete](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Probabilistic%20Models/Auto%20complete(probabilistic%20model).ipynb)
          * [continuous bag of words (CBOW) from scratch(Word Embedding)](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Probabilistic%20Models/continuous%20bag%20of%20words%20(CBOW)%20from%20scratch(Word%20Embedding).ipynb)
 * **Reinforcement learning**
