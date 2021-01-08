@@ -18,9 +18,12 @@ I usually post and archive my last GitHub project and online publications. feel 
         * [Locality Sensitive Hashing](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/Locality%20sensitive%20hashing%20for%20finding%20similar%20tweets.ipynb)
         * [word translation from English to  French](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Classification%20and%20Vector%20Spaces/word%20translation%20using%20vector%20space.ipynb)
      * Probabilistic models
-         * [Auto correct](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Probabilistic%20Models/Auto%20correct.ipynb)
+         * [Auto Correct](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Probabilistic%20Models/Auto%20correct.ipynb)
          * [Auto Complete](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Probabilistic%20Models/Auto%20complete(probabilistic%20model).ipynb)
-         * [continuous bag of words (CBOW) from scratch(Word Embedding)](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Probabilistic%20Models/continuous%20bag%20of%20words%20(CBOW)%20from%20scratch(Word%20Embedding).ipynb)
+         * [Continuous bag of words (CBOW) from scratch(Word Embedding)](https://github.com/alighandij/NLP/blob/main/NLP%20with%20Probabilistic%20Models/continuous%20bag%20of%20words%20(CBOW)%20from%20scratch(Word%20Embedding).ipynb)
+     * Deep sequence models
+         * [Deep Auto Complete](https://github.com/alighandij/NLP/tree/main/NLP%20with%20Sequence%20Models/Deep%20N-gram%20trax)
+         * [Name Entity Recognition](https://github.com/alighandij/NLP/tree/main/NLP%20with%20Sequence%20Models/Name%20Entity%20recognition)
 * **Reinforcement learning**
     * Q_learning
         * [simple Q_learning for Taxi-v2](https://github.com/alighandij/ReinforcementLearning/blob/master/Q_learning/Q-lraning.ipynb)
