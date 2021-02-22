@@ -25,7 +25,7 @@ I usually post and archive my last GitHub project and online publications. feel 
          * [Deep Auto Complete](https://github.com/alighandij/NLP/tree/main/NLP%20with%20Sequence%20Models/Deep%20N-gram%20trax)
          * [Name Entity Recognition](https://github.com/alighandij/NLP/tree/main/NLP%20with%20Sequence%20Models/Name%20Entity%20recognition)
 * **Reinforcement learning**
-    * DynammicProgramming
+    * DynamicProgramming
          * [Policy Evaluation in Gridworld](https://github.com/alighandij/ReinforcementLearning/blob/master/DynammicProgramming/iterative_policy_evaluation.ipynb)
          * [Policy itteration in Gridworld](https://github.com/alighandij/ReinforcementLearning/blob/master/DynammicProgramming/policy%20itteration.ipynb)
     * Q_learning
