@@ -25,20 +25,30 @@ I usually post and archive my last GitHub project and online publications. feel 
          * [Deep Auto Complete](https://github.com/alighandij/NLP/tree/main/NLP%20with%20Sequence%20Models/Deep%20N-gram%20trax)
          * [Name Entity Recognition](https://github.com/alighandij/NLP/tree/main/NLP%20with%20Sequence%20Models/Name%20Entity%20recognition)
 * **Reinforcement learning**
+    * Bandit
+         * [epsilon-greedy](https://github.com/alighandij/ReinforcementLearning/blob/master/0-Bandit/epsilon_greedy.ipynb)
+         * [optimistic-greedy](https://github.com/alighandij/ReinforcementLearning/blob/master/0-Bandit/optimistic.ipynb)
+         * [UBC]()
     * DynamicProgramming
-         * [Policy Evaluation in Gridworld](https://github.com/alighandij/ReinforcementLearning/blob/master/DynammicProgramming/iterative_policy_evaluation.ipynb)
-         * [Policy itteration in Gridworld](https://github.com/alighandij/ReinforcementLearning/blob/master/DynammicProgramming/policy%20itteration.ipynb)
-    * Q_learning
-        * [simple Q_learning for Taxi-v2](https://github.com/alighandij/ReinforcementLearning/blob/master/Q_learning/Q-lraning.ipynb)
+         * [Policy Evaluation in Gridworld](https://github.com/alighandij/ReinforcementLearning/blob/master/1-DynamicProgramming/iterative%20policy%20evaluation.ipynb)
+         * [Policy itteration in Gridworld](https://github.com/alighandij/ReinforcementLearning/blob/master/1-DynamicProgramming/policy%20iteration.ipynb)
+    * MonteCarlo
+         * [MC policy evaluation](https://github.com/alighandij/ReinforcementLearning/blob/master/2-Monte%20Carlo/monte%20carlo%20policy%20evaluation.ipynb)
+         * [MC control](https://github.com/alighandij/ReinforcementLearning/blob/master/2-Monte%20Carlo/monte%20carlo%20control%20problem.ipynb)
+    * Temporal Difference
+        * [TD(0)](https://github.com/alighandij/ReinforcementLearning/blob/master/3-Temporal%20difference/TD0_state%20value%20prediction.ipynb)
+        * [SARSA-acrobot](https://github.com/alighandij/ReinforcementLearning/blob/master/3-Temporal%20difference/SARSA_Acrobot_v1.ipynb)
+        * [SARSA-Fozenlake](https://github.com/alighandij/ReinforcementLearning/blob/master/3-Temporal%20difference/SARSA_FrozenLake-v0.ipynb)
+        * [simple Q_learning for Taxi-v2](https://github.com/alighandij/ReinforcementLearning/blob/master/3-Temporal%20difference/Q-lraning.ipynb)
     * Deep Q_learning
-        * [simple deep Q_learning for Taxi-v2](https://github.com/alighandij/ReinforcementLearning/blob/master/DQN/01_DQN_Taxi-v2.ipynb)
-        * [simple deep Q_learning for LunarLander-v2 game](https://github.com/alighandij/ReinforcementLearning/blob/master/DQN/02_DQN_LunarLander-v2.ipynb)
-        * [simple deep Q_learning for Pong](https://github.com/alighandij/ReinforcementLearning/blob/master/DQN/03_Pong%20with%20DQN.ipynb)
-        * [Double deep Q_learning(DDQN) for Pong](https://github.com/alighandij/ReinforcementLearning/blob/master/DQN/05_Double_DQN_Pong.ipynb)
-        * [Dueling Double deep Q_learning(3DQN) for CartPole](https://github.com/alighandij/ReinforcementLearning/blob/master/DQN/06_CartPole%20Dueling%20DDQN.ipynb)
+        * [simple deep Q_learning for Taxi-v2](https://github.com/alighandij/ReinforcementLearning/blob/master/4-DQN/01_DQN_Taxi-v2.ipynb)
+        * [simple deep Q_learning for LunarLander-v2 game](https://github.com/alighandij/ReinforcementLearning/blob/master/4-DQN/02_DQN_LunarLander-v2.ipynb)
+        * [simple deep Q_learning for Pong](https://github.com/alighandij/ReinforcementLearning/blob/master/4-DQN/03_Pong%20with%20DQN.ipynb)
+        * [Double deep Q_learning(DDQN) for Pong](https://github.com/alighandij/ReinforcementLearning/blob/master/4-DQN/05_Double_DQN_Pong.ipynb)
+        * [Dueling Double deep Q_learning(3DQN) for CartPole](https://github.com/alighandij/ReinforcementLearning/blob/master/4-DQN/06_CartPole%20Dueling%20DDQN.ipynb)
     * PolicyGradient
-        * [Actor-Critic algorithm for cartPole](https://github.com/alighandij/ReinforcementLearning/blob/master/PolicyGradient/Actor-Critic_cartPole.ipynb)
-        * [REINFORCE algorithm for cartpole](https://github.com/alighandij/ReinforcementLearning/blob/master/PolicyGradient/REINFORCE_cartpole.ipynb)
+        * [Actor-Critic algorithm for cartPole](https://github.com/alighandij/ReinforcementLearning/blob/master/5-PolicyGradient/Actor-Critic_cartPole.ipynb)
+        * [REINFORCE algorithm for cartpole](https://github.com/alighandij/ReinforcementLearning/blob/master/5-PolicyGradient/REINFORCE_cartpole.ipynb)
         
 * **Deep Learning(tensorflow 2.2)**
     * ANN
