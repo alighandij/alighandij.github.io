@@ -29,7 +29,6 @@ ________________________________________________________________________________
     * Bandit
          * [epsilon-greedy](https://github.com/alighandij/ReinforcementLearning/blob/master/0-Bandit/epsilon_greedy.ipynb)
          * [optimistic-greedy](https://github.com/alighandij/ReinforcementLearning/blob/master/0-Bandit/optimistic.ipynb)
-         * [UBC]()
     * DynamicProgramming
          * [Policy Evaluation in Gridworld](https://github.com/alighandij/ReinforcementLearning/blob/master/1-DynamicProgramming/iterative%20policy%20evaluation.ipynb)
          * [Policy itteration in Gridworld](https://github.com/alighandij/ReinforcementLearning/blob/master/1-DynamicProgramming/policy%20iteration.ipynb)
