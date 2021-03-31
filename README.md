@@ -32,6 +32,7 @@ I usually post and archive my last GitHub project and online publications. feel 
     * DynamicProgramming
          * [Policy Evaluation in Gridworld](https://github.com/alighandij/ReinforcementLearning/blob/master/1-DynamicProgramming/iterative%20policy%20evaluation.ipynb)
          * [Policy itteration in Gridworld](https://github.com/alighandij/ReinforcementLearning/blob/master/1-DynamicProgramming/policy%20iteration.ipynb)
+         * [value iteration](https://github.com/alighandij/ReinforcementLearning/blob/master/1-DynamicProgramming/value%20iteration.ipynb)
     * MonteCarlo
          * [MC policy evaluation](https://github.com/alighandij/ReinforcementLearning/blob/master/2-Monte%20Carlo/monte%20carlo%20policy%20evaluation.ipynb)
          * [MC control](https://github.com/alighandij/ReinforcementLearning/blob/master/2-Monte%20Carlo/monte%20carlo%20control%20problem.ipynb)
@@ -39,7 +40,7 @@ I usually post and archive my last GitHub project and online publications. feel 
         * [TD(0)](https://github.com/alighandij/ReinforcementLearning/blob/master/3-Temporal%20difference/TD0_state%20value%20prediction.ipynb)
         * [SARSA-acrobot](https://github.com/alighandij/ReinforcementLearning/blob/master/3-Temporal%20difference/SARSA_Acrobot_v1.ipynb)
         * [SARSA-Fozenlake](https://github.com/alighandij/ReinforcementLearning/blob/master/3-Temporal%20difference/SARSA_FrozenLake-v0.ipynb)
-        * [simple Q_learning for Taxi-v2](https://github.com/alighandij/ReinforcementLearning/blob/master/3-Temporal%20difference/Q-lraning.ipynb)
+        * [simple Q_learning for Taxi-v2](https://github.com/alighandij/ReinforcementLearning/blob/master/3-Temporal%20difference/Q-learning_taxi_v2.ipynb)
     * Deep Q_learning
         * [simple deep Q_learning for Taxi-v2](https://github.com/alighandij/ReinforcementLearning/blob/master/4-DQN/01_DQN_Taxi-v2.ipynb)
         * [simple deep Q_learning for LunarLander-v2 game](https://github.com/alighandij/ReinforcementLearning/blob/master/4-DQN/02_DQN_LunarLander-v2.ipynb)
