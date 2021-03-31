@@ -24,6 +24,7 @@ I usually post and archive my last GitHub project and online publications. feel 
      * Deep sequence models
          * [Deep Auto Complete](https://github.com/alighandij/NLP/tree/main/NLP%20with%20Sequence%20Models/Deep%20N-gram%20trax)
          * [Name Entity Recognition](https://github.com/alighandij/NLP/tree/main/NLP%20with%20Sequence%20Models/Name%20Entity%20recognition)
+____________________________________________________________________________________________
 * **Reinforcement learning**
     * Bandit
          * [epsilon-greedy](https://github.com/alighandij/ReinforcementLearning/blob/master/0-Bandit/epsilon_greedy.ipynb)
@@ -50,7 +51,7 @@ I usually post and archive my last GitHub project and online publications. feel 
     * PolicyGradient
         * [Actor-Critic algorithm for cartPole](https://github.com/alighandij/ReinforcementLearning/blob/master/5-PolicyGradient/Actor-Critic_cartPole.ipynb)
         * [REINFORCE algorithm for cartpole](https://github.com/alighandij/ReinforcementLearning/blob/master/5-PolicyGradient/REINFORCE_cartpole.ipynb)
-        
+  ____________________________________________________________________________________________
 * **Deep Learning(tensorflow 2.2)**
     * ANN
         * [simple ANN (tutorial mode)](https://github.com/alighandij/DeepLearning_TF2/tree/main/ANN)
