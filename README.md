@@ -11,6 +11,9 @@ I usually post and archive my last GitHub project and online publications. feel 
 
 * [All about hypothesis testing, from p-values to Z-test all-in-one 2019](https://towardsdatascience.com/all-about-hypothesis-testing-from-p-values-to-z-test-all-in-one-efef8a226660)
 
+### My online teaching:
+* [Reinforcment Learning online course](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA%DB%8C-Reinforcement-Learning-mk1174/)
+
 ### My Github projects
 * [**NLP**](https://github.com/alighandij/NLP)
     * Classification and Vector Spaces
