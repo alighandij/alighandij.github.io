@@ -26,14 +26,13 @@ I usually post and archive my last GitHub project and online publications. feel 
          * [Deep Auto Complete](https://github.com/alighandij/NLP/tree/main/NLP%20with%20Sequence%20Models/Deep%20N-gram%20trax)
          * [Name Entity Recognition](https://github.com/alighandij/NLP/tree/main/NLP%20with%20Sequence%20Models/Name%20Entity%20recognition)
 ____________________________________________________________________________________________
-* **Reinforcement learning**
+* [**Reinforcement learning**](https://github.com/alighandij/ReinforcementLearning)
     * Bandit
          * [epsilon-greedy](https://github.com/alighandij/ReinforcementLearning/blob/master/0-Bandit/epsilon_greedy.ipynb)
          * [optimistic-greedy](https://github.com/alighandij/ReinforcementLearning/blob/master/0-Bandit/optimistic.ipynb)
     * DynamicProgramming
          * [Policy Evaluation in Gridworld](https://github.com/alighandij/ReinforcementLearning/blob/master/1-DynamicProgramming/iterative%20policy%20evaluation.ipynb)
-         * [Policy itteration in Gridworld](https://github.com/alighandij/ReinforcementLearning/blob/master/1-DynamicProgramming/policy%20iteration.ipynb)
-         * [value iteration](https://github.com/alighandij/ReinforcementLearning/blob/master/1-DynamicProgramming/value%20iteration.ipynb)
+         * [Policy itteration in Gridworld](https://github.com/alighandij/ReinforcementLearning/blob/master/1-DynamicProgramming/policy_iteration.ipynb)
     * MonteCarlo
          * [MC policy evaluation](https://github.com/alighandij/ReinforcementLearning/blob/master/2-Monte%20Carlo/monte%20carlo%20policy%20evaluation.ipynb)
          * [MC control](https://github.com/alighandij/ReinforcementLearning/blob/master/2-Monte%20Carlo/monte%20carlo%20control%20problem.ipynb)
@@ -42,6 +41,7 @@ ________________________________________________________________________________
         * [SARSA-acrobot](https://github.com/alighandij/ReinforcementLearning/blob/master/3-Temporal%20difference/SARSA_Acrobot_v1.ipynb)
         * [SARSA-Fozenlake](https://github.com/alighandij/ReinforcementLearning/blob/master/3-Temporal%20difference/SARSA_FrozenLake-v0.ipynb)
         * [simple Q_learning for Taxi-v2](https://github.com/alighandij/ReinforcementLearning/blob/master/3-Temporal%20difference/Q-learning_taxi_v2.ipynb)
+        * [TD lambda with linear approximation](https://github.com/alighandij/ReinforcementLearning/blob/master/3-Temporal%20difference/TD%20lambda%20with%20linear%20approximation.ipynb)
     * Deep Q_learning
         * [simple deep Q_learning for Taxi-v2](https://github.com/alighandij/ReinforcementLearning/blob/master/4-DQN/01_DQN_Taxi-v2.ipynb)
         * [simple deep Q_learning for LunarLander-v2 game](https://github.com/alighandij/ReinforcementLearning/blob/master/4-DQN/02_DQN_LunarLander-v2.ipynb)
