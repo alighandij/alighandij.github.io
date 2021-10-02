@@ -3,6 +3,7 @@
 
 I usually post and archive my last GitHub project and online publications. feel free to contact me if need any help with content.
 ### My technical post in data science
+* [Why using a Policy-Based algorithm Instead of Deep Q-learning?](https://pub.towardsai.net/why-using-a-policy-based-algorithm-instead-of-deep-q-learning-ee6d8b9f0bb0)
 
 * [History of Neural Networks! From Neurobiologists to Mathematicians 2020](https://medium.com/towards-artificial-intelligence/history-of-neural-network-from-neurobiologists-to-mathematicians-98683458efd9)
 
@@ -51,7 +52,7 @@ ________________________________________________________________________________
         * [Actor-Critic algorithm for cartPole](https://github.com/alighandij/ReinforcementLearning/blob/master/5-PolicyGradient/Actor-Critic_cartPole.ipynb)
         * [REINFORCE algorithm for cartpole](https://github.com/alighandij/ReinforcementLearning/blob/master/5-PolicyGradient/REINFORCE_cartpole.ipynb)
   ____________________________________________________________________________________________
-* **Deep Learning(tensorflow 2.2)**
+* **Deep Learning(Simple examples tensorflow 2.2)**
     * ANN
         * [simple ANN (tutorial mode)](https://github.com/alighandij/DeepLearning_TF2/tree/main/ANN)
     * CNN
